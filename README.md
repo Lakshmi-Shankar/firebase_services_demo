@@ -97,11 +97,11 @@ flutter run -d chrome
 
 ## Project Goal
 
-Understand:
+Understood:
 
 * Firebase initialization in Flutter
 * Firestore integration
 * Platform configuration using FlutterFire CLI
-* Running Flutter web apps locally
+* Running Flutter web apps 
 
 ---
